@@ -1,4 +1,7 @@
 venv
-notebooks
 .env
-scripts
+data
+notebooks/extract_and_save_data.ipynb:Zone.Identifier
+notebooks/save_data_mysql.ipynb:Zone.Identifier
+notebooks/transform_data.ipynb:Zone.Identifier
+scripts/__pycache__
